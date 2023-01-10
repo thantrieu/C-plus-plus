@@ -10,5 +10,5 @@ using namespace std;
 int main()
 {
 	cout << fixed << setprecision(12) << M_PI << endl;
-	return 0;
+	return 1;
 }
